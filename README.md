@@ -6,12 +6,6 @@
 <p align="center">
   <img 
     src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDY0OGhpbmpmYWRjeXVwbnAwdDEzcnFrcjhoZmd3a3VwbDU0Z3QwZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2vnId4IaAjIGZd2EWC/giphy.gif" 
-    width="300" 
+    width="100" 
     alt="Animated GIF">
-</p>
-<p align="center">
-  <img src="[assets/animation.gi](https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDY0OGhpbmpmYWRjeXVwbnAwdDEzcnFrcjhoZmd3a3VwbDU0Z3QwZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/2vnId4IaAjIGZd2EWC/giphy.gif" width="300">
-</p>
-<p align="center">
-  <img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Animación">
-</p>
+
