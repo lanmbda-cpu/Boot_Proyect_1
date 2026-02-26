@@ -4,6 +4,14 @@
 <h2 align="center">
   <img src="https://media3.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" alt="Animación">
 </p>
+<div align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
+</div>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=garbinmarcelo&style=flat-square)
+
+</div>
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 <a href="https://fb.com/Leonardo Mont Tru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Leonardo Mont Tru" height="30" width="40" /></a>
