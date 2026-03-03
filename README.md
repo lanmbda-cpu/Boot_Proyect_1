@@ -1,1 +1,1 @@
-
+Tienda online Ice que vende videojuegos por todo el mundo. Por medio del análisis de datos se determina si un juego tiene éxito o no. Esto permitirá detectar proyectos prometedores y planificar campañas publicitarias.
